@@ -10,6 +10,6 @@
   "author": "GitHub",
   "license": "LGPL-3.0",
   "devDependencies": {
-    "electron": "^4.0.7"
+    "electron": "^9.1.0"
   }
 }
